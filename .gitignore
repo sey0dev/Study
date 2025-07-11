@@ -1,0 +1,9 @@
+.venv
+.DS_store
+.ipynb_checkpoints
+
+# 테스트 파일
+000_test.py
+
+# 메모 파일
+memo.txt
