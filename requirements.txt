@@ -1,0 +1,6 @@
+numpy
+pandas
+webdriver-manager
+selenium
+jupyter
+notebook
